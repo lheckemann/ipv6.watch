@@ -692,7 +692,7 @@ targets:
       - world.taobao.com
     href: https://world.taobao.com/
     icon: "fa:taobao"
-  TechChruch:
+  TechCrunch:
     hosts:
       - techcrunch.com
     href: https://techcrunch.com
